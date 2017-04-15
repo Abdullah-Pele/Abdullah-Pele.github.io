@@ -18,8 +18,8 @@ email: Abdullah-f1616@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
  My First website
  اول مواقع لي :)
-baseurl: {{ "/assets/style.css" | absolute_url }} # the subpath of your site, e.g. /blog
-url: {{ "/assets/style.css" | absolute_url }} # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bo_9al7_shrefy
 github_username:  Abdullah-Pele
 
